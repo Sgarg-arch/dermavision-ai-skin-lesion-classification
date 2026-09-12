@@ -1,0 +1,12 @@
+IBM Bob was used as an AI-assisted development partner for the Skin Lesion Classification project.
+
+It supported the team in understanding and organizing the machine-learning workflow,
+including dataset preparation, image preprocessing, ResNet50 transfer learning, training,
+fine-tuning, evaluation, and documentation. IBM Bob also helped explain code, identify
+issues in the notebook workflow, improve code readability, and interpret performance metrics
+such as accuracy, ROC-AUC, precision, recall, F1 score, specificity, and the confusion matrix.
+
+The project uses Python, PyTorch, Torchvision, Pandas, Scikit-learn, and Jupyter Notebook.
+The model classifies dermoscopic skin-lesion images as benign or malignant using the ISIC 2019 dataset.
+IBM Bob helped the team work more efficiently, document technical decisions, and maintain a
+structured end-to-end development process.
