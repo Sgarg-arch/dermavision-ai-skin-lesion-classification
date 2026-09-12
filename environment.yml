@@ -1,0 +1,16 @@
+name: minor-v3
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - pillow
+  - tqdm
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - ipykernel
+  - jupyterlab
